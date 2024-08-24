@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://res.cloudinary.com/diizaxtg3/image/upload/v1724477750/Portfolio/vo7zqjojb1drm0mh5agu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+header {
+    padding-bottom: 10px;
+}
+
+header .logo {
+    background-image: url("https://res.cloudinary.com/diizaxtg3/image/upload/v1724477750/Portfolio/Logo.png");
+    height: 75px;
+    max-width: 350px;
+    width: 350px;
+}
